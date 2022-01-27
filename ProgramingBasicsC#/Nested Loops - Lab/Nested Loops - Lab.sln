@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Clock", "01. Clock\01. Clock.csproj", "{97EF5122-1CC6-4FD7-9BE6-0AB12A065FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Multiplication Table", "02. Multiplication Table\02. Multiplication Table.csproj", "{BD8CB7CB-291E-41A9-A61D-B4DE3FFC6EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Combinations", "03. Combinations\03. Combinations.csproj", "{CAD0F8F0-67D3-408F-BE8F-A2A0C93033D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum of Two Numbers", "04. Sum of Two Numbers\04. Sum of Two Numbers.csproj", "{19DCC8FE-EA48-4BA7-838F-526C149D473B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Building", "06. Building\06. Building.csproj", "{69665305-16B0-42B3-B65C-6E7A09E56A4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Travelling", "05. Travelling\05. Travelling.csproj", "{B9A0AFC8-4E87-491F-8C97-9DD9F261BEB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Cinema Tickets", "07. Cinema Tickets\07. Cinema Tickets.csproj", "{DA1C470B-E8F1-4C33-97AB-9CE0486D7B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97EF5122-1CC6-4FD7-9BE6-0AB12A065FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EF5122-1CC6-4FD7-9BE6-0AB12A065FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EF5122-1CC6-4FD7-9BE6-0AB12A065FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EF5122-1CC6-4FD7-9BE6-0AB12A065FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8CB7CB-291E-41A9-A61D-B4DE3FFC6EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8CB7CB-291E-41A9-A61D-B4DE3FFC6EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8CB7CB-291E-41A9-A61D-B4DE3FFC6EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8CB7CB-291E-41A9-A61D-B4DE3FFC6EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD0F8F0-67D3-408F-BE8F-A2A0C93033D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD0F8F0-67D3-408F-BE8F-A2A0C93033D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD0F8F0-67D3-408F-BE8F-A2A0C93033D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD0F8F0-67D3-408F-BE8F-A2A0C93033D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DCC8FE-EA48-4BA7-838F-526C149D473B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DCC8FE-EA48-4BA7-838F-526C149D473B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DCC8FE-EA48-4BA7-838F-526C149D473B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DCC8FE-EA48-4BA7-838F-526C149D473B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69665305-16B0-42B3-B65C-6E7A09E56A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69665305-16B0-42B3-B65C-6E7A09E56A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69665305-16B0-42B3-B65C-6E7A09E56A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69665305-16B0-42B3-B65C-6E7A09E56A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A0AFC8-4E87-491F-8C97-9DD9F261BEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A0AFC8-4E87-491F-8C97-9DD9F261BEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A0AFC8-4E87-491F-8C97-9DD9F261BEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A0AFC8-4E87-491F-8C97-9DD9F261BEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1C470B-E8F1-4C33-97AB-9CE0486D7B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1C470B-E8F1-4C33-97AB-9CE0486D7B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1C470B-E8F1-4C33-97AB-9CE0486D7B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1C470B-E8F1-4C33-97AB-9CE0486D7B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD51DA4-5FC4-4ACD-8D95-947AFA5533B0}
+	EndGlobalSection
+EndGlobal
