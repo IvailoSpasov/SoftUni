@@ -15,6 +15,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. TriFunction", "11. TriF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Applied Arithmetics", "05. Applied Arithmetics\05. Applied Arithmetics.csproj", "{8EBC1258-7041-4B10-82B4-079CECB4F230}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Reverse And Exclude", "06. Reverse And Exclude\06. Reverse And Exclude.csproj", "{AB177334-9A14-43AD-827A-45ED2DC55820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Predicate For Names", "07. Predicate For Names\07. Predicate For Names.csproj", "{CCDE50F4-2D94-433C-A5DE-B3760D0EB1C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. List Of Predicates", "08. List Of Predicates\08. List Of Predicates.csproj", "{9A3394A8-A4CD-48D3-817B-7C2A1DF8DC0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Predicate Party!", "09. Predicate Party!\09. Predicate Party!.csproj", "{8444CA06-C3F6-4F79-8144-4426457003BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. The Party Reservation Filter Module", "10. The Party Reservation Filter Module\10. The Party Reservation Filter Module.csproj", "{3989A73A-4E31-401D-ACBA-B57BE91AFAAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +55,26 @@ Global
 		{8EBC1258-7041-4B10-82B4-079CECB4F230}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EBC1258-7041-4B10-82B4-079CECB4F230}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EBC1258-7041-4B10-82B4-079CECB4F230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB177334-9A14-43AD-827A-45ED2DC55820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB177334-9A14-43AD-827A-45ED2DC55820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB177334-9A14-43AD-827A-45ED2DC55820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB177334-9A14-43AD-827A-45ED2DC55820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDE50F4-2D94-433C-A5DE-B3760D0EB1C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDE50F4-2D94-433C-A5DE-B3760D0EB1C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDE50F4-2D94-433C-A5DE-B3760D0EB1C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDE50F4-2D94-433C-A5DE-B3760D0EB1C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3394A8-A4CD-48D3-817B-7C2A1DF8DC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3394A8-A4CD-48D3-817B-7C2A1DF8DC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3394A8-A4CD-48D3-817B-7C2A1DF8DC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3394A8-A4CD-48D3-817B-7C2A1DF8DC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8444CA06-C3F6-4F79-8144-4426457003BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8444CA06-C3F6-4F79-8144-4426457003BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8444CA06-C3F6-4F79-8144-4426457003BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8444CA06-C3F6-4F79-8144-4426457003BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3989A73A-4E31-401D-ACBA-B57BE91AFAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3989A73A-4E31-401D-ACBA-B57BE91AFAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3989A73A-4E31-401D-ACBA-B57BE91AFAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3989A73A-4E31-401D-ACBA-B57BE91AFAAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
