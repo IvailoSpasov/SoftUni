@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blacksmith", "Blacksmith\Bl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armory", "Armory\Armory.csproj", "{EA6AA88D-7F44-4D90-84EA-CD6B51916F91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food Finder", "Food Finder\Food Finder.csproj", "{04D40176-D66D-4081-8458-2F0117FE7F64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Food Finder", "Food Finder\Food Finder.csproj", "{04D40176-D66D-4081-8458-2F0117FE7F64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawn Wars", "Pawn Wars\Pawn Wars.csproj", "{49E16649-8DDA-4848-A8DF-BC4A804CD32A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pawn Wars", "Pawn Wars\Pawn Wars.csproj", "{49E16649-8DDA-4848-A8DF-BC4A804CD32A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Celebration", "Birthday Celebration\Birthday Celebration.csproj", "{CF584B98-50B9-44C4-8CF3-E1CD9200F4DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Battle of The Five Armies", "The Battle of The Five Armies\The Battle of The Five Armies.csproj", "{217B98B6-73B1-4A2E-8D22-AD9BFFE3E511}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{49E16649-8DDA-4848-A8DF-BC4A804CD32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49E16649-8DDA-4848-A8DF-BC4A804CD32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49E16649-8DDA-4848-A8DF-BC4A804CD32A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF584B98-50B9-44C4-8CF3-E1CD9200F4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF584B98-50B9-44C4-8CF3-E1CD9200F4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF584B98-50B9-44C4-8CF3-E1CD9200F4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF584B98-50B9-44C4-8CF3-E1CD9200F4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217B98B6-73B1-4A2E-8D22-AD9BFFE3E511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217B98B6-73B1-4A2E-8D22-AD9BFFE3E511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217B98B6-73B1-4A2E-8D22-AD9BFFE3E511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217B98B6-73B1-4A2E-8D22-AD9BFFE3E511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
