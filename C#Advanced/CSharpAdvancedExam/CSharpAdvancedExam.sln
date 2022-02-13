@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Food Finder", "Food Finder\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pawn Wars", "Pawn Wars\Pawn Wars.csproj", "{49E16649-8DDA-4848-A8DF-BC4A804CD32A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Celebration", "Birthday Celebration\Birthday Celebration.csproj", "{CF584B98-50B9-44C4-8CF3-E1CD9200F4DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Birthday Celebration", "Birthday Celebration\Birthday Celebration.csproj", "{CF584B98-50B9-44C4-8CF3-E1CD9200F4DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Battle of The Five Armies", "The Battle of The Five Armies\The Battle of The Five Armies.csproj", "{217B98B6-73B1-4A2E-8D22-AD9BFFE3E511}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Battle of The Five Armies", "The Battle of The Five Armies\The Battle of The Five Armies.csproj", "{217B98B6-73B1-4A2E-8D22-AD9BFFE3E511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masterchef", "Masterchef\Masterchef.csproj", "{97F0ED37-0481-4445-A570-2ED3128E940C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survivor", "Survivor\Survivor.csproj", "{D7234B41-C140-47DF-AC2B-49D4A8A5A093}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{217B98B6-73B1-4A2E-8D22-AD9BFFE3E511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{217B98B6-73B1-4A2E-8D22-AD9BFFE3E511}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{217B98B6-73B1-4A2E-8D22-AD9BFFE3E511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F0ED37-0481-4445-A570-2ED3128E940C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F0ED37-0481-4445-A570-2ED3128E940C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F0ED37-0481-4445-A570-2ED3128E940C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F0ED37-0481-4445-A570-2ED3128E940C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7234B41-C140-47DF-AC2B-49D4A8A5A093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7234B41-C140-47DF-AC2B-49D4A8A5A093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7234B41-C140-47DF-AC2B-49D4A8A5A093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7234B41-C140-47DF-AC2B-49D4A8A5A093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
