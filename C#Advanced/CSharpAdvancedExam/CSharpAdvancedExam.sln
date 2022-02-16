@@ -23,9 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lootbox", "Lootbox\Lootbox.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Re-Volt", "Re-Volt\Re-Volt.csproj", "{4F33970E-DEE8-4453-ABC8-09925CB69F81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmWinter", "WarmWinter\WarmWinter.csproj", "{51A53818-B7D6-475E-A7CD-76E9D1A346C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarmWinter", "WarmWinter\WarmWinter.csproj", "{51A53818-B7D6-475E-A7CD-76E9D1A346C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMario", "SuperMario\SuperMario.csproj", "{5CC31B12-98D9-4208-B72A-EA96A0129E8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperMario", "SuperMario\SuperMario.csproj", "{5CC31B12-98D9-4208-B72A-EA96A0129E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFightforGondor", "TheFightforGondor\TheFightforGondor.csproj", "{243DEF15-65B8-4014-BEAF-F89CB87AD731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warships", "Warships\Warships.csproj", "{F605C3F6-419C-4B21-896B-D6668E10A1C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{5CC31B12-98D9-4208-B72A-EA96A0129E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CC31B12-98D9-4208-B72A-EA96A0129E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CC31B12-98D9-4208-B72A-EA96A0129E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243DEF15-65B8-4014-BEAF-F89CB87AD731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243DEF15-65B8-4014-BEAF-F89CB87AD731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243DEF15-65B8-4014-BEAF-F89CB87AD731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243DEF15-65B8-4014-BEAF-F89CB87AD731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F605C3F6-419C-4B21-896B-D6668E10A1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F605C3F6-419C-4B21-896B-D6668E10A1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F605C3F6-419C-4B21-896B-D6668E10A1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F605C3F6-419C-4B21-896B-D6668E10A1C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
