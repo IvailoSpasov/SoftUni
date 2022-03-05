@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{45504908-BA90-482A-B6EA-FC9CFC1437DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{DD22B0F6-D12C-4AC2-B400-99D89D094850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{193026E5-6EB1-4E55-8195-F4BB0139375F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45504908-BA90-482A-B6EA-FC9CFC1437DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45504908-BA90-482A-B6EA-FC9CFC1437DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45504908-BA90-482A-B6EA-FC9CFC1437DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45504908-BA90-482A-B6EA-FC9CFC1437DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD22B0F6-D12C-4AC2-B400-99D89D094850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD22B0F6-D12C-4AC2-B400-99D89D094850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD22B0F6-D12C-4AC2-B400-99D89D094850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD22B0F6-D12C-4AC2-B400-99D89D094850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193026E5-6EB1-4E55-8195-F4BB0139375F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193026E5-6EB1-4E55-8195-F4BB0139375F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193026E5-6EB1-4E55-8195-F4BB0139375F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193026E5-6EB1-4E55-8195-F4BB0139375F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BDB5B2D-B20D-4135-A267-00AA19D43DA1}
+	EndGlobalSection
+EndGlobal

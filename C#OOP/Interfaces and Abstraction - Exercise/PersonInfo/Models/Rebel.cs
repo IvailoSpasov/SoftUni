@@ -4,25 +4,22 @@ using System.Text;
 
 namespace PersonInfo
 {
-    public class Citizen : IPerson, IIdentifiable, IBirthable, IBuyer
+    public class Rebel : IPerson, IBuyer
     {
-        public Citizen(string name, int age, string id, string birthdate)
+        public Rebel(string name, int age, string @group)
         {
             Name = name;
             Age = age;
-            Id = id;
-            Birthdate = birthdate;
+            Group = @group;
         }
 
         public string Name { get; set; }
         public int Age { get; set; }
-        public string Id { get; set; }
-        public string Birthdate { get; set; }
         public int Food { get; set; }
-
+        public string Group { get; set; }
         public void BuyFood()
         {
-            this.Food += 10;
+            this.Food += 5;
         }
     }
 }
